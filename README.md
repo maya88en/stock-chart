@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Build a stock platform 
+
+### In the 1st step, I used a video tutorial and I brough a link from https://www.alphavantage.co/documentation/, and generated my free API Key, however, the data are showing in the console.log but not on browser
+
+## ![console.log](image.png) 
+
+
+### In the 2nd step, I created a mongoDB Atlas account, created a cluster and database to insert the json file in a new collection called "stocks" but I haven't pushed yet 
+
+### In the 3rd step, I'm aiming to build a user dashboard
+
+
+
+
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
